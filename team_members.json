@@ -1,0 +1,12 @@
+[
+  {"name": "Alice Johnson", "role": "UI/UX Designer", "max_story_points": 10},
+  {"name": "Bob Smith", "role": "Frontend Developer", "max_story_points": 10},
+  {"name": "Charlie Brown", "role": "Frontend Developer", "max_story_points": 10},
+  {"name": "David Davis", "role": "Backend Developer", "max_story_points": 10},
+  {"name": "Emily Evans", "role": "Backend Developer", "max_story_points": 10},
+  {"name": "Frank Miller", "role": "Database Engineer", "max_story_points": 10},
+  {"name": "Grace Wilson", "role": "QA Tester", "max_story_points": 10},
+  {"name": "Henry Taylor", "role": "QA Tester", "max_story_points": 10},
+  {"name": "Ivy Thomas", "role": "DevOps Engineer", "max_story_points": 10},
+  {"name": "Jack White", "role": "Scrum Master", "max_story_points": 10}
+]

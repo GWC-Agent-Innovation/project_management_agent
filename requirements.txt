@@ -1,0 +1,5 @@
+anthropic>=0.115.0
+slack_sdk>=3.27.0
+pypdf>=4.0.0
+python-dotenv>=1.0.1
+jira>=3.8.0
